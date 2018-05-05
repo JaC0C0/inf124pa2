@@ -1,0 +1,28 @@
+[Mon Apr 16 19:31:01.103064 2018] [mime_magic:error] [pid 7310] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /home/inf124grp16/Projects/apachefiles/conf/magic
+[Mon Apr 16 19:31:01.169378 2018] [mime_magic:error] [pid 7311] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /home/inf124grp16/Projects/apachefiles/conf/magic
+[Mon Apr 16 19:31:01.170877 2018] [lbmethod_heartbeat:notice] [pid 7311] AH02282: No slotmem from mod_heartmonitor
+[Mon Apr 16 19:31:01.261414 2018] [mpm_prefork:notice] [pid 7311] AH00163: Apache/2.4.6 (CentOS) SVN/1.7.14 configured -- resuming normal operations
+[Mon Apr 16 19:31:01.261455 2018] [core:notice] [pid 7311] AH00094: Command line: '/usr/sbin/httpd -f /home/inf124grp16/Projects/apachefiles/conf/httpd.conf'
+[Sun Apr 29 22:46:51.092128 2018] [mime_magic:error] [pid 40672] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /home/inf124grp16/PA2/apachefiles/conf/magic
+[Sun Apr 29 22:46:51.141520 2018] [mime_magic:error] [pid 40673] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /home/inf124grp16/PA2/apachefiles/conf/magic
+[Sun Apr 29 22:46:51.143030 2018] [lbmethod_heartbeat:notice] [pid 40673] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 22:46:51.207448 2018] [mpm_prefork:notice] [pid 40673] AH00163: Apache/2.4.6 (CentOS) SVN/1.7.14 configured -- resuming normal operations
+[Sun Apr 29 22:46:51.207489 2018] [core:notice] [pid 40673] AH00094: Command line: '/usr/sbin/httpd -f /home/inf124grp16/PA2/apachefiles/conf/httpd.conf'
+[Sun Apr 29 22:50:27.417824 2018] [mpm_prefork:notice] [pid 40673] AH00169: caught SIGTERM, shutting down
+[Sun Apr 29 22:50:33.950085 2018] [mime_magic:error] [pid 40794] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /home/inf124grp16/PA2/apachefiles/conf/magic
+[Sun Apr 29 22:50:34.002173 2018] [mime_magic:error] [pid 40795] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /home/inf124grp16/PA2/apachefiles/conf/magic
+[Sun Apr 29 22:50:34.003710 2018] [lbmethod_heartbeat:notice] [pid 40795] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 22:50:34.067909 2018] [mpm_prefork:notice] [pid 40795] AH00163: Apache/2.4.6 (CentOS) SVN/1.7.14 configured -- resuming normal operations
+[Sun Apr 29 22:50:34.067946 2018] [core:notice] [pid 40795] AH00094: Command line: '/usr/sbin/httpd -f /home/inf124grp16/PA2/apachefiles/conf/httpd.conf'
+[Mon Apr 30 00:02:38.941925 2018] [mpm_prefork:notice] [pid 40795] AH00169: caught SIGTERM, shutting down
+[Mon Apr 30 00:03:38.947828 2018] [mime_magic:error] [pid 46944] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /home/inf124grp16/PA2/apachefiles/conf/magic
+[Mon Apr 30 00:03:39.012307 2018] [mime_magic:error] [pid 46945] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /home/inf124grp16/PA2/apachefiles/conf/magic
+[Mon Apr 30 00:03:39.014060 2018] [lbmethod_heartbeat:notice] [pid 46945] AH02282: No slotmem from mod_heartmonitor
+[Mon Apr 30 00:03:39.078295 2018] [mpm_prefork:notice] [pid 46945] AH00163: Apache/2.4.6 (CentOS) SVN/1.7.14 configured -- resuming normal operations
+[Mon Apr 30 00:03:39.078333 2018] [core:notice] [pid 46945] AH00094: Command line: '/usr/sbin/httpd -f /home/inf124grp16/PA2/apachefiles/conf/httpd.conf'
+[Tue May 01 11:20:54.001572 2018] [mpm_prefork:notice] [pid 46945] AH00169: caught SIGTERM, shutting down
+[Fri May 04 17:57:27.440897 2018] [mime_magic:error] [pid 25755] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /home/inf124grp16/PA2/apachefiles/conf/magic
+[Fri May 04 17:57:27.497905 2018] [mime_magic:error] [pid 25756] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /home/inf124grp16/PA2/apachefiles/conf/magic
+[Fri May 04 17:57:27.499431 2018] [lbmethod_heartbeat:notice] [pid 25756] AH02282: No slotmem from mod_heartmonitor
+[Fri May 04 17:57:27.598166 2018] [mpm_prefork:notice] [pid 25756] AH00163: Apache/2.4.6 (CentOS) SVN/1.7.14 configured -- resuming normal operations
+[Fri May 04 17:57:27.598212 2018] [core:notice] [pid 25756] AH00094: Command line: '/usr/sbin/httpd -f /home/inf124grp16/PA2/apachefiles/conf/httpd.conf'
